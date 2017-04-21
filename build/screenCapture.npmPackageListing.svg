@@ -1,139 +1,139 @@
 <svg height="2174" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2174" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 10:23:48 +0000   761202 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 10:23:48 +0000      579 bytes  AUTHORS</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 10:23:48 +0000     1516 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 10:23:48 +0000    42980 bytes  History.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 10:23:48 +0000     1116 bytes  LICENSE.txt</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 10:23:48 +0000     5500 bytes  README.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 10:23:48 +0000      817 bytes  bin/change_password.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 10:23:48 +0000     3277 bytes  bin/cli.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 10:23:48 +0000     2141 bytes  bin/nodejsctl</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 10:23:48 +0000     1465 bytes  common/logger.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 10:23:48 +0000     2207 bytes  common/mail.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 10:23:48 +0000      582 bytes  common/markdown.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 10:23:48 +0000      257 bytes  common/nfs.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 10:23:48 +0000     1864 bytes  common/sequelize.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 10:23:48 +0000     1591 bytes  common/urllib.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 10:23:48 +0000     7286 bytes  config/index.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 10:23:48 +0000     1407 bytes  controllers/registry/package/deprecate.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 10:23:48 +0000     2260 bytes  controllers/registry/package/dist_tag.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 10:23:48 +0000     3198 bytes  controllers/registry/package/download.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 10:23:48 +0000     1426 bytes  controllers/registry/package/download_total.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 10:23:48 +0000     4996 bytes  controllers/registry/package/list.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 10:23:48 +0000      684 bytes  controllers/registry/package/list_all.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 10:23:48 +0000      511 bytes  controllers/registry/package/list_by_user.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 10:23:48 +0000      483 bytes  controllers/registry/package/list_dependents.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 10:23:48 +0000      394 bytes  controllers/registry/package/list_shorts.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 10:23:48 +0000     1152 bytes  controllers/registry/package/list_since.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 10:23:48 +0000     1689 bytes  controllers/registry/package/remove.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-21 10:23:48 +0000     2115 bytes  controllers/registry/package/remove_version.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-21 10:23:48 +0000     6185 bytes  controllers/registry/package/save.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-21 10:23:48 +0000     2079 bytes  controllers/registry/package/show.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-21 10:23:48 +0000     1690 bytes  controllers/registry/package/tag.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-21 10:23:48 +0000     4935 bytes  controllers/registry/package/update.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-21 10:23:48 +0000     3322 bytes  controllers/registry/user/add.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-21 10:23:48 +0000      583 bytes  controllers/registry/user/common.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-21 10:23:48 +0000     1462 bytes  controllers/registry/user/show.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-21 10:23:48 +0000     2332 bytes  controllers/registry/user/update.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-21 10:23:48 +0000     1017 bytes  controllers/registry/user_package.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-21 10:23:48 +0000     1831 bytes  controllers/sync.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-21 10:23:48 +0000    33495 bytes  controllers/sync_module_worker.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-21 10:23:48 +0000      864 bytes  controllers/total.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-21 10:23:48 +0000     4328 bytes  controllers/utils.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-21 10:23:48 +0000     1807 bytes  controllers/web/badge.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-21 10:23:48 +0000      909 bytes  controllers/web/package/list_privates.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-21 10:23:48 +0000     1334 bytes  controllers/web/package/search.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-21 10:23:48 +0000     1120 bytes  controllers/web/package/search_range.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-21 10:23:48 +0000     5470 bytes  controllers/web/package/show.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-21 10:23:48 +0000      713 bytes  controllers/web/show_sync.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-21 10:23:48 +0000     1636 bytes  controllers/web/user/show.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-21 10:23:48 +0000     1970 bytes  dispatch.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-21 10:23:48 +0000     4921 bytes  docs/Migrating-from-1.x-to-2.x.md</tspan>
-<tspan x="10" y="826"> 50.  2017-04-21 10:23:48 +0000    14794 bytes  docs/db.sql</tspan>
-<tspan x="10" y="842"> 51.  2017-04-21 10:23:48 +0000    13028 bytes  docs/flow/adduser.md</tspan>
-<tspan x="10" y="858"> 52.  2017-04-21 10:23:48 +0000     6736 bytes  docs/flow/install.md</tspan>
-<tspan x="10" y="874"> 53.  2017-04-21 10:23:48 +0000     6186 bytes  docs/flow/pkg.json</tspan>
-<tspan x="10" y="890"> 54.  2017-04-21 10:23:48 +0000     8806 bytes  docs/flow/publish.md</tspan>
-<tspan x="10" y="906"> 55.  2017-04-21 10:23:48 +0000     3151 bytes  docs/flow/unpublish.md</tspan>
-<tspan x="10" y="922"> 56.  2017-04-21 10:23:48 +0000   126304 bytes  docs/network.png</tspan>
-<tspan x="10" y="938"> 57.  2017-04-21 10:23:48 +0000     2218 bytes  docs/network.puml</tspan>
-<tspan x="10" y="954"> 58.  2017-04-21 10:23:48 +0000    19385 bytes  docs/registry-api.md</tspan>
-<tspan x="10" y="970"> 59.  2017-04-21 10:23:48 +0000      534 bytes  docs/update_sqls/v1.6.x-upgrade.sql</tspan>
-<tspan x="10" y="986"> 60.  2017-04-21 10:23:48 +0000     4997 bytes  docs/web/readme.md</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-21 10:23:48 +0000      513 bytes  index.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-21 10:23:48 +0000     2018 bytes  lib/common.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-21 10:23:48 +0000     2015 bytes  middleware/auth.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-21 10:23:48 +0000      538 bytes  middleware/block.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-21 10:23:48 +0000      944 bytes  middleware/editable.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-21 10:23:48 +0000      529 bytes  middleware/exists_package.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-21 10:23:48 +0000      487 bytes  middleware/limit.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-21 10:23:48 +0000      726 bytes  middleware/login.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-21 10:23:48 +0000      825 bytes  middleware/opensearch.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-21 10:23:48 +0000     1147 bytes  middleware/proxy_to_npm.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-21 10:23:48 +0000     2264 bytes  middleware/publishable.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-21 10:23:48 +0000      525 bytes  middleware/registry_not_found.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-21 10:23:48 +0000      637 bytes  middleware/static.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-21 10:23:48 +0000     1095 bytes  middleware/sync_by_install.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-21 10:23:48 +0000      465 bytes  middleware/unpublishable.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-21 10:23:48 +0000     1002 bytes  middleware/web_not_found.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-21 10:23:48 +0000     2941 bytes  models/_module_maintainer_class_methods.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-21 10:23:48 +0000     8027 bytes  models/download_total.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-21 10:23:48 +0000     1159 bytes  models/index.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-21 10:23:48 +0000     1307 bytes  models/init_script.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-21 10:23:48 +0000     2472 bytes  models/module.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-21 10:23:48 +0000     1426 bytes  models/module_deps.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-21 10:23:48 +0000     1616 bytes  models/module_keyword.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-21 10:23:48 +0000     1256 bytes  models/module_log.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-21 10:23:48 +0000     1417 bytes  models/module_maintainer.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-21 10:23:48 +0000     1330 bytes  models/module_star.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-21 10:23:48 +0000     2193 bytes  models/module_unpublished.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-21 10:23:48 +0000     1446 bytes  models/npm_module_maintainer.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-21 10:23:48 +0000     1760 bytes  models/tag.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-21 10:23:48 +0000     3752 bytes  models/total.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-21 10:23:48 +0000     6395 bytes  models/user.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-21 10:23:48 +0000      691 bytes  models/utils.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-21 10:23:48 +0000     2639 bytes  package.json</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-21 10:23:48 +0000   190032 bytes  public/css/antd-0.9.1.min.css</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-21 10:23:48 +0000     4741 bytes  public/css/atom-dark.css</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-21 10:23:48 +0000     3608 bytes  public/css/atom-light.css</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-21 10:23:48 +0000    17285 bytes  public/css/github-markdown.css</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-21 10:23:48 +0000     1487 bytes  public/css/github.css</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-21 10:23:48 +0000     4422 bytes  public/css/main.css</tspan>
-<tspan x="10" y="1626">100.  2017-04-21 10:23:48 +0000     1780 bytes  public/css/yue.css</tspan>
-<tspan x="10" y="1642">101.  2017-04-21 10:23:48 +0000     3520 bytes  public/favicon.png</tspan>
-<tspan x="10" y="1658">102.  2017-04-21 10:23:48 +0000     2066 bytes  public/js/readme.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-21 10:23:48 +0000     6633 bytes  routes/registry.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-21 10:23:48 +0000     1644 bytes  routes/web.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-21 10:23:48 +0000     1560 bytes  servers/registry.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-21 10:23:48 +0000     3144 bytes  servers/web.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-21 10:23:48 +0000      601 bytes  services/common.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-21 10:23:48 +0000     3177 bytes  services/default_user_service.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-21 10:23:48 +0000     3051 bytes  services/download_total.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-21 10:23:48 +0000      946 bytes  services/module_log.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-21 10:23:48 +0000     4977 bytes  services/npm.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-21 10:23:48 +0000    17130 bytes  services/package.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-21 10:23:48 +0000     3811 bytes  services/total.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-21 10:23:48 +0000     2102 bytes  services/user.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-21 10:23:48 +0000     2306 bytes  sync/changes_stream_syncer.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-21 10:23:48 +0000     6165 bytes  sync/index.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-21 10:23:48 +0000     1446 bytes  sync/status.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-21 10:23:48 +0000     2253 bytes  sync/sync_all.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-21 10:23:48 +0000     2543 bytes  sync/sync_exist.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-21 10:23:48 +0000     1092 bytes  sync/sync_popular.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-21 10:23:48 +0000     1496 bytes  sync/sync_since.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-21 10:23:48 +0000     1158 bytes  tools/resync_npm_issue_87.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-21 10:23:48 +0000     2960 bytes  tools/sync_download_total.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-21 10:23:48 +0000      439 bytes  view/web/404.html</tspan>
-<tspan x="10" y="2026">125.  2017-04-21 10:23:48 +0000      390 bytes  view/web/footer.html</tspan>
-<tspan x="10" y="2042">126.  2017-04-21 10:23:48 +0000     2716 bytes  view/web/layout.html</tspan>
-<tspan x="10" y="2058">127.  2017-04-21 10:23:48 +0000     6888 bytes  view/web/package.html</tspan>
-<tspan x="10" y="2074">128.  2017-04-21 10:23:48 +0000     1902 bytes  view/web/package_unpublished.html</tspan>
-<tspan x="10" y="2090">129.  2017-04-21 10:23:48 +0000      816 bytes  view/web/private.html</tspan>
-<tspan x="10" y="2106">130.  2017-04-21 10:23:48 +0000     2187 bytes  view/web/profile.html</tspan>
-<tspan x="10" y="2122">131.  2017-04-21 10:23:48 +0000     2071 bytes  view/web/search.html</tspan>
-<tspan x="10" y="2138">132.  2017-04-21 10:23:48 +0000     2598 bytes  view/web/sync.html</tspan>
-<tspan x="10" y="2154">133.  2017-04-21 10:23:48 +0000      867 bytes  worker.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 10:25:11 +0000   761202 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 10:25:11 +0000      579 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 10:25:11 +0000     1516 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 10:25:11 +0000    42980 bytes  History.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 10:25:11 +0000     1116 bytes  LICENSE.txt</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 10:25:11 +0000     5500 bytes  README.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 10:25:11 +0000      817 bytes  bin/change_password.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 10:25:11 +0000     3277 bytes  bin/cli.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 10:25:11 +0000     2141 bytes  bin/nodejsctl</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 10:25:11 +0000     1465 bytes  common/logger.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 10:25:11 +0000     2207 bytes  common/mail.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 10:25:11 +0000      582 bytes  common/markdown.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 10:25:11 +0000      257 bytes  common/nfs.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 10:25:11 +0000     1864 bytes  common/sequelize.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 10:25:11 +0000     1591 bytes  common/urllib.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 10:25:11 +0000     7286 bytes  config/index.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 10:25:11 +0000     1407 bytes  controllers/registry/package/deprecate.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 10:25:11 +0000     2260 bytes  controllers/registry/package/dist_tag.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 10:25:11 +0000     3198 bytes  controllers/registry/package/download.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 10:25:11 +0000     1426 bytes  controllers/registry/package/download_total.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 10:25:11 +0000     4996 bytes  controllers/registry/package/list.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 10:25:11 +0000      684 bytes  controllers/registry/package/list_all.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 10:25:11 +0000      511 bytes  controllers/registry/package/list_by_user.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 10:25:11 +0000      483 bytes  controllers/registry/package/list_dependents.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 10:25:11 +0000      394 bytes  controllers/registry/package/list_shorts.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 10:25:11 +0000     1152 bytes  controllers/registry/package/list_since.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 10:25:11 +0000     1689 bytes  controllers/registry/package/remove.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 10:25:11 +0000     2115 bytes  controllers/registry/package/remove_version.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-21 10:25:11 +0000     6185 bytes  controllers/registry/package/save.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-21 10:25:11 +0000     2079 bytes  controllers/registry/package/show.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-21 10:25:11 +0000     1690 bytes  controllers/registry/package/tag.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-21 10:25:11 +0000     4935 bytes  controllers/registry/package/update.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-21 10:25:11 +0000     3322 bytes  controllers/registry/user/add.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-21 10:25:11 +0000      583 bytes  controllers/registry/user/common.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-21 10:25:11 +0000     1462 bytes  controllers/registry/user/show.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-21 10:25:11 +0000     2332 bytes  controllers/registry/user/update.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-21 10:25:11 +0000     1017 bytes  controllers/registry/user_package.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-21 10:25:11 +0000     1831 bytes  controllers/sync.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-21 10:25:11 +0000    33495 bytes  controllers/sync_module_worker.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-21 10:25:11 +0000      864 bytes  controllers/total.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-21 10:25:11 +0000     4328 bytes  controllers/utils.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-21 10:25:11 +0000     1807 bytes  controllers/web/badge.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-21 10:25:11 +0000      909 bytes  controllers/web/package/list_privates.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-21 10:25:11 +0000     1334 bytes  controllers/web/package/search.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-21 10:25:11 +0000     1120 bytes  controllers/web/package/search_range.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-21 10:25:11 +0000     5470 bytes  controllers/web/package/show.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-21 10:25:11 +0000      713 bytes  controllers/web/show_sync.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-21 10:25:11 +0000     1636 bytes  controllers/web/user/show.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-21 10:25:11 +0000     1970 bytes  dispatch.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-21 10:25:11 +0000     4921 bytes  docs/Migrating-from-1.x-to-2.x.md</tspan>
+<tspan x="10" y="826"> 50.  2017-04-21 10:25:11 +0000    14794 bytes  docs/db.sql</tspan>
+<tspan x="10" y="842"> 51.  2017-04-21 10:25:11 +0000    13028 bytes  docs/flow/adduser.md</tspan>
+<tspan x="10" y="858"> 52.  2017-04-21 10:25:11 +0000     6736 bytes  docs/flow/install.md</tspan>
+<tspan x="10" y="874"> 53.  2017-04-21 10:25:11 +0000     6186 bytes  docs/flow/pkg.json</tspan>
+<tspan x="10" y="890"> 54.  2017-04-21 10:25:11 +0000     8806 bytes  docs/flow/publish.md</tspan>
+<tspan x="10" y="906"> 55.  2017-04-21 10:25:11 +0000     3151 bytes  docs/flow/unpublish.md</tspan>
+<tspan x="10" y="922"> 56.  2017-04-21 10:25:11 +0000   126304 bytes  docs/network.png</tspan>
+<tspan x="10" y="938"> 57.  2017-04-21 10:25:11 +0000     2218 bytes  docs/network.puml</tspan>
+<tspan x="10" y="954"> 58.  2017-04-21 10:25:11 +0000    19385 bytes  docs/registry-api.md</tspan>
+<tspan x="10" y="970"> 59.  2017-04-21 10:25:11 +0000      534 bytes  docs/update_sqls/v1.6.x-upgrade.sql</tspan>
+<tspan x="10" y="986"> 60.  2017-04-21 10:25:11 +0000     4997 bytes  docs/web/readme.md</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-21 10:25:11 +0000      513 bytes  index.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-21 10:25:11 +0000     2018 bytes  lib/common.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-21 10:25:11 +0000     2015 bytes  middleware/auth.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-21 10:25:11 +0000      538 bytes  middleware/block.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-21 10:25:11 +0000      944 bytes  middleware/editable.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-21 10:25:11 +0000      529 bytes  middleware/exists_package.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-21 10:25:11 +0000      487 bytes  middleware/limit.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-21 10:25:11 +0000      726 bytes  middleware/login.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-21 10:25:11 +0000      825 bytes  middleware/opensearch.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-21 10:25:11 +0000     1147 bytes  middleware/proxy_to_npm.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-21 10:25:11 +0000     2264 bytes  middleware/publishable.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-21 10:25:11 +0000      525 bytes  middleware/registry_not_found.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-21 10:25:11 +0000      637 bytes  middleware/static.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-21 10:25:11 +0000     1095 bytes  middleware/sync_by_install.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-21 10:25:11 +0000      465 bytes  middleware/unpublishable.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-21 10:25:11 +0000     1002 bytes  middleware/web_not_found.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-21 10:25:11 +0000     2941 bytes  models/_module_maintainer_class_methods.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-21 10:25:11 +0000     8027 bytes  models/download_total.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-21 10:25:11 +0000     1159 bytes  models/index.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-21 10:25:11 +0000     1307 bytes  models/init_script.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-21 10:25:11 +0000     2472 bytes  models/module.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-21 10:25:11 +0000     1426 bytes  models/module_deps.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-21 10:25:11 +0000     1616 bytes  models/module_keyword.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-21 10:25:11 +0000     1256 bytes  models/module_log.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-21 10:25:11 +0000     1417 bytes  models/module_maintainer.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-21 10:25:11 +0000     1330 bytes  models/module_star.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-21 10:25:11 +0000     2193 bytes  models/module_unpublished.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-21 10:25:11 +0000     1446 bytes  models/npm_module_maintainer.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-21 10:25:11 +0000     1760 bytes  models/tag.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-21 10:25:11 +0000     3752 bytes  models/total.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-21 10:25:11 +0000     6395 bytes  models/user.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-21 10:25:11 +0000      691 bytes  models/utils.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-21 10:25:11 +0000     2639 bytes  package.json</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-21 10:25:11 +0000   190032 bytes  public/css/antd-0.9.1.min.css</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-21 10:25:11 +0000     4741 bytes  public/css/atom-dark.css</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-21 10:25:11 +0000     3608 bytes  public/css/atom-light.css</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-21 10:25:11 +0000    17285 bytes  public/css/github-markdown.css</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-21 10:25:11 +0000     1487 bytes  public/css/github.css</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-21 10:25:11 +0000     4422 bytes  public/css/main.css</tspan>
+<tspan x="10" y="1626">100.  2017-04-21 10:25:11 +0000     1780 bytes  public/css/yue.css</tspan>
+<tspan x="10" y="1642">101.  2017-04-21 10:25:11 +0000     3520 bytes  public/favicon.png</tspan>
+<tspan x="10" y="1658">102.  2017-04-21 10:25:11 +0000     2066 bytes  public/js/readme.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-21 10:25:11 +0000     6633 bytes  routes/registry.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-21 10:25:11 +0000     1644 bytes  routes/web.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-21 10:25:11 +0000     1560 bytes  servers/registry.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-21 10:25:11 +0000     3144 bytes  servers/web.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-21 10:25:11 +0000      601 bytes  services/common.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-21 10:25:11 +0000     3177 bytes  services/default_user_service.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-21 10:25:11 +0000     3051 bytes  services/download_total.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-21 10:25:11 +0000      946 bytes  services/module_log.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-21 10:25:11 +0000     4977 bytes  services/npm.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-21 10:25:11 +0000    17130 bytes  services/package.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-21 10:25:11 +0000     3811 bytes  services/total.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-21 10:25:11 +0000     2102 bytes  services/user.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-21 10:25:11 +0000     2306 bytes  sync/changes_stream_syncer.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-21 10:25:11 +0000     6165 bytes  sync/index.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-21 10:25:11 +0000     1446 bytes  sync/status.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-21 10:25:11 +0000     2253 bytes  sync/sync_all.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-21 10:25:11 +0000     2543 bytes  sync/sync_exist.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-21 10:25:11 +0000     1092 bytes  sync/sync_popular.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-21 10:25:11 +0000     1496 bytes  sync/sync_since.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-21 10:25:11 +0000     1158 bytes  tools/resync_npm_issue_87.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-21 10:25:11 +0000     2960 bytes  tools/sync_download_total.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-21 10:25:11 +0000      439 bytes  view/web/404.html</tspan>
+<tspan x="10" y="2026">125.  2017-04-21 10:25:11 +0000      390 bytes  view/web/footer.html</tspan>
+<tspan x="10" y="2042">126.  2017-04-21 10:25:11 +0000     2716 bytes  view/web/layout.html</tspan>
+<tspan x="10" y="2058">127.  2017-04-21 10:25:11 +0000     6888 bytes  view/web/package.html</tspan>
+<tspan x="10" y="2074">128.  2017-04-21 10:25:11 +0000     1902 bytes  view/web/package_unpublished.html</tspan>
+<tspan x="10" y="2090">129.  2017-04-21 10:25:11 +0000      816 bytes  view/web/private.html</tspan>
+<tspan x="10" y="2106">130.  2017-04-21 10:25:11 +0000     2187 bytes  view/web/profile.html</tspan>
+<tspan x="10" y="2122">131.  2017-04-21 10:25:11 +0000     2071 bytes  view/web/search.html</tspan>
+<tspan x="10" y="2138">132.  2017-04-21 10:25:11 +0000     2598 bytes  view/web/sync.html</tspan>
+<tspan x="10" y="2154">133.  2017-04-21 10:25:11 +0000      867 bytes  worker.js</tspan>
 </text>
 </svg>
